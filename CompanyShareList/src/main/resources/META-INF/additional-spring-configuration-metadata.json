@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "spring.jpa.mvc.view.prefix",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.mvc.view.prefix'"
+  },
+  {
+    "name": "spring.jpa.mvc.view.suffix",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.mvc.view.suffix'"
+  },
+  {
+    "name": "spring.jpa.server.port",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.server.port'"
+  }
+]}
